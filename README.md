@@ -1,6 +1,6 @@
 # IslandCounting-GraphTraversal
 Given a n*n grid of square; each square can be 1 (land) or 0 (water). An island is a maximally connected land square; two land square are connected if they have common edges.  Find the number of islands for the given grid of squares
----
+```
 Example 1
 
 Input:
@@ -15,4 +15,4 @@ Output:
 3
 Explanation:
 There are three connected land areas: top left, top right, and bottom.
----
+```
